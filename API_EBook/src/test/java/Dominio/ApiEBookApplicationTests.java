@@ -1,10 +1,10 @@
-package com.API_upao.ebook;
+package Dominio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiUpaoEBookApplicationTests {
+class ApiEBookApplicationTests {
 
     @Test
     void contextLoads() {
